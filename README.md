@@ -2,7 +2,7 @@
 
 Having spent the past few years in a career in Finance, I recently took the plunge and headed to Makers Academy to begin my journey towards becoming an amazing Software Developer. I am an "entertainer" personality type (probably not expected from someone with a finance background) and this is reflected in how I interact with friends and colleagues in any environment. I thrive in environments where I am always being challenged and being able to learn from others
 
-Having survived 12 intense weeks at Makers, I am now ready for my first job as Junior Software Developer and cannot be any more excited make real-world impact with the things I have learnt.
+As I embark on my Makers journey, I am excited to learn from my course coaches and cohort mates with the aim of becoming a full fledged Software Developer ready to make real-word impact.
 
 ## Skills
 
@@ -20,7 +20,7 @@ Attention to detail? How can this be tied in with software development and codin
 
 ## Education
 
-#### Makers Academy (November 18 to March 19)
+#### Makers Academy (November 18 to Present)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
